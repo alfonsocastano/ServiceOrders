@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vAMXTNbkqBI=",
+  "success": true,
+  "projectFilePath": "C:\\Proyectos\\Yeminus\\ServiceOrders\\backend\\ServiceOrders.Application\\ServiceOrders.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sigma\\.nuget\\packages\\bcrypt.net-next\\4.2.0\\bcrypt.net-next.4.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
